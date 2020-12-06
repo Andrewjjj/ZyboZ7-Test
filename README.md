@@ -13,7 +13,7 @@ Zybo Z7-10 Test for ECE 410 Lab Kit is created to run and ensure that all ports 
 
 1) Connect the Zybo Board with computer and / or power.
 2) Connect the PMOD Segment Display in the port shown as below: 
-![alt text](https://github.com/andrewjjj/ZyboZ7-Test/blob/master/img/zybo_board.jpg?raw=true)
+![alt text](https://github.com/andrewjjj/ZyboZ7-Test/blob/main/img/zybo_board.jpg?raw=true)
 3) Power on the Board
 4) Open the project file
 5) Generate Bitstream and Program the Board
@@ -29,7 +29,7 @@ Zybo Z7-10 Test for ECE 410 Lab Kit is created to run and ensure that all ports 
 ## Recommended Testing Method
 
 Here is a quick 15-second video demonstrating one of the ways the board can be tested.
-![Output sample](https://github.com/andrewjjj/ZyboZ7-Test/blob/master/img/zybo_test.gif)
+![Output sample](https://github.com/Andrewjjj/ZyboZ7-Test/blob/main/img/zybo_test.gif)
 
 ### Ports and PMODs Used in ECE 410
 
